@@ -17,3 +17,4 @@ document.write("Initial speed: " + test.getSpeed() + '<br>');
 document.write('Accerlerate 1st time: ' + test.accerlerate() + '<br>');
 document.write('Accerlerate 2nd time: ' + test.accerlerate() + '<br>');
 
+//I can't figure this out. I've been working on it for over 2 hours. I have no idea.
